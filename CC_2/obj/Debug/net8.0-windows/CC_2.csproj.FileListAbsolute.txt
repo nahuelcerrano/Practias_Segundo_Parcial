@@ -1,0 +1,16 @@
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\bin\Debug\net8.0-windows\CC_2.exe
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\bin\Debug\net8.0-windows\CC_2.deps.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\bin\Debug\net8.0-windows\CC_2.runtimeconfig.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\bin\Debug\net8.0-windows\CC_2.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\bin\Debug\net8.0-windows\CC_2.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.Form1.resources
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.csproj.GenerateResource.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\refint\CC_2.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\CC_2.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\CC_2\obj\Debug\net8.0-windows\ref\CC_2.dll
