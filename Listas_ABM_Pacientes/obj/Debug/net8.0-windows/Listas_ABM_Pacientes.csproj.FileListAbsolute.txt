@@ -1,0 +1,16 @@
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\bin\Debug\net8.0-windows\Listas_ABM_Pacientes.exe
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\bin\Debug\net8.0-windows\Listas_ABM_Pacientes.deps.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\bin\Debug\net8.0-windows\Listas_ABM_Pacientes.runtimeconfig.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\bin\Debug\net8.0-windows\Listas_ABM_Pacientes.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\bin\Debug\net8.0-windows\Listas_ABM_Pacientes.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.Form1.resources
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.csproj.GenerateResource.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\refint\Listas_ABM_Pacientes.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\Listas_ABM_Pacientes.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\Listas_ABM_Pacientes\obj\Debug\net8.0-windows\ref\Listas_ABM_Pacientes.dll
