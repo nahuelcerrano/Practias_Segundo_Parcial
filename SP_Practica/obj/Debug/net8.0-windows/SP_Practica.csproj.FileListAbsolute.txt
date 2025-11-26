@@ -1,0 +1,16 @@
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\bin\Debug\net8.0-windows\SP_Practica.exe
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\bin\Debug\net8.0-windows\SP_Practica.deps.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\bin\Debug\net8.0-windows\SP_Practica.runtimeconfig.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\bin\Debug\net8.0-windows\SP_Practica.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\bin\Debug\net8.0-windows\SP_Practica.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.Form1.resources
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.csproj.GenerateResource.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\refint\SP_Practica.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\SP_Practica.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\Practicas\SP_Practica\obj\Debug\net8.0-windows\ref\SP_Practica.dll
